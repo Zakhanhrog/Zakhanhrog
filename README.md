@@ -39,6 +39,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       <br><strong>MySQL</strong>
     </td>
+    <td align="center" height="108" width="145">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br><strong>Tailwind CSS</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="145">
@@ -61,5 +65,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
+    <td align="center" height="108" width="145">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="48" height="48" alt="Next.js" />
+      <br><strong>Next.js</strong>
+    </td>
   </tr>
 </table>
+
+
